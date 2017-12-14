@@ -1,0 +1,5 @@
+Sat, 07 Oct 2017 22:55:59 class_sth.py[line:33] DEBUG This is debug message
+Sat, 07 Oct 2017 22:55:59 class_sth.py[line:34] INFO This is info message
+Sat, 07 Oct 2017 22:55:59 class_sth.py[line:35] WARNING This is warning message
+Sat, 07 Oct 2017 22:56:00 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): www.lagou.com
+Sat, 07 Oct 2017 22:56:01 connectionpool.py[line:396] DEBUG https://www.lagou.com:443 "POST /jobs/positionAjax.json?city=%E4%B8%8A%E6%B5%B7&needAddtionalResult=false&isSchoolJob=0 HTTP/1.1" 200 None
